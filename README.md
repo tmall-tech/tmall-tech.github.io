@@ -1,3 +1,3 @@
-# Tmall Tech Department
+# Tmall Tech
 
-（天猫技术部）
+（天猫技术）
